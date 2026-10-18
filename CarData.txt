@@ -1,0 +1,28 @@
+date,time,car modela,color,rarirty/10,how much i like it /10
+
+12/10,8:40,BMW i8,white,7,8
+12/10,8:44,Porsche GT3 RS,orange,7,7
+12/10,8:43,BMW X5 M,dark gray,7,8
+12/10,8:48,Porsche Macan S,black,6,6
+
+13/10,8:50,BMW i8,white,6,8
+13/10,8:55,BMW 340i E46,dark blue,6,9
+13/10,15:53,BMW 325Ci E46,green,5,8
+13/10,16:29,Audi RS6,gray,6,8
+
+15/10,8:11,Volkswagen Golf R,light gray,5,6
+15/10,8:12,BMW M140i,black,7,8
+15/10,8:14,Audi RS7 e-tron,dark gray,6,8
+15/10,8:15,Audi TT,light mk1,gray,3,6
+
+16/10,11:05,Range Rover Evoque Sport,dark red,4,6
+16/10,11:08,Audi RS Q3,dark gray,4,6
+16/10,11:37,Porsche GT4,white,6,7
+16/10,11:37,BMW X5 M,black,7,8
+
+17/10,18:43,BMW E46 M3,pastel green,8,9
+17/10,18:46,Mercedes-Benz C63,black,8,9
+17/10,18:53,Audi S5 V6T,black,7,8
+17/10,18:53,BMW Z4,light gray,3,8
+17/10,18:53,BMW M4 Competition F82,dark blue,6,8
+17/10,18:56,Audi RS Q5,dark blue,5,7
