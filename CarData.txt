@@ -26,3 +26,4 @@ date,time,car modela,color,rarirty/10,how much i like it /10
 17/10,18:53,BMW Z4,light gray,3,8
 17/10,18:53,BMW M4 Competition F82,dark blue,6,8
 17/10,18:56,Audi RS Q5,dark blue,5,7
+
