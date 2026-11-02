@@ -2,28 +2,48 @@ date,time,car modela,color,rarirty/10,how much i like it /10
 
 12/10,8:40,BMW i8,white,7,8
 12/10,8:44,Porsche GT3 RS,orange,7,7
-12/10,8:43,BMW X5 M,dark gray,7,8
+12/10,8:43,BMW X5 M,charcoal gray,7,8
 12/10,8:48,Porsche Macan S,black,6,6
 
 13/10,8:50,BMW i8,white,6,8
-13/10,8:55,BMW 340i E46,dark blue,6,9
+13/10,8:55,BMW 340i E46,navy blue,6,9
 13/10,15:53,BMW 325Ci E46,green,5,8
 13/10,16:29,Audi RS6,gray,6,8
 
-15/10,8:11,Volkswagen Golf R,light gray,5,6
+15/10,8:11,Volkswagen Golf R,silver gray,5,6
 15/10,8:12,BMW M140i,black,7,8
-15/10,8:14,Audi RS7 e-tron,dark gray,6,8
-15/10,8:15,Audi TT,light mk1,gray,3,6
+15/10,8:14,Audi RS7 e-tron,anthracite gray,6,8
+15/10,8:15,Audi TT MK1,gray,3,6
 
-16/10,11:05,Range Rover Evoque Sport,dark red,4,6
-16/10,11:08,Audi RS Q3,dark gray,4,6
+16/10,11:05,Range Rover Evoque Sport,burgundy,4,6
+16/10,11:08,Audi RS Q3,charcoal gray,4,6
 16/10,11:37,Porsche GT4,white,6,7
 16/10,11:37,BMW X5 M,black,7,8
 
 17/10,18:43,BMW E46 M3,pastel green,8,9
 17/10,18:46,Mercedes-Benz C63,black,8,9
 17/10,18:53,Audi S5 V6T,black,7,8
+<<<<<<< HEAD
 17/10,18:53,BMW Z4,light gray,3,8
 17/10,18:53,BMW M4 Competition F82,dark blue,6,8
 17/10,18:56,Audi RS Q5,dark blue,5,7
 
+=======
+17/10,18:53,BMW Z4,silver gray,3,8
+17/10,18:53,BMW M4 Competition F82,navy blue,6,8
+17/10,18:56,Audi RS Q5,navy blue,5,7
+
+22/10,11:06,Audi R8,silver,6,8
+22/10,11:07,BMW XM,black,6,7
+22/10,11:19,BMW E30 318i,white,5,8
+
+23/10,11:56,Mercedes SL55,black,8,9
+
+24/10,13:05,BMW E92 M3,navy blue,7,10
+24/10,13:09,Honda NSX,red,8,10
+24/10,13:12,Nissan 350Z,orange,6,7
+
+25/10,17:49,Toyota Supra MK3,white,9,8
+
+26/10,8:11,Audi S3,silver gray,6,6
+>>>>>>> 00f28e29974163b73cfe426f5b2c79e852e3ada4
