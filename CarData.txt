@@ -20,7 +20,6 @@ date,time,brand,model,color,rarity,how much i like it
 16/10,11:37,BMW,XM,black,7,8
 16/10,11:38,Audi,RS Q3,gray,5,5
 
-
 17/10,18:43,BMW,E46,green,8,9
 17/10,18:46,Mercedes-Benz,C63,black,8,9
 17/10,18:53,Audi,S5 V6T,black,7,8
@@ -38,10 +37,12 @@ date,time,brand,model,color,rarity,how much i like it
 24/10,13:09,Honda,NSX,red,8,10
 24/10,13:12,Nissan,350Z,orange,6,7
 
-25/10,17:49,Toyota Supra MK3,white,9,8
+25/10,17:49,Toyota,Supra MK3,white,9,8
 
-26/10,8:11,Audi S3,silver,6,6
+26/10,8:11,Audi,S3,silver,6,6
 
-2/11,8:40,Nissan R35 GT-R,gray,7,8		
-2/11,8:44,Ferarri SF90,red,9,8
-2/11,8:44,Lamborghini Aventador,black,9,8
+2/11,8:40,Nissan,R35 GT-R,gray,7,8		
+2/11,8:44,Ferarri,SF90,red,9,8
+2/11,8:44,Lamborghini,Aventador,black,9,8
+
+3/11,8:39,Toyota,MR2,grey,5,8
