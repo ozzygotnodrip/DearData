@@ -1,9 +1,9 @@
 date,time,brand,model,color,rarity,how much i like it
 
 12/10,8:40,BMW,i8,white,7,8
-12/10,8:44,Porsche GT3 RS,orange,7,7
-12/10,8:43,BMW X5 M,charcoal gray,7,8
-12/10,8:48,Porsche Macan S,black,6,6
+12/10,8:44,Porsche,GT3 RS,orange,7,7
+12/10,8:43,BMW,X5 M,charcoal gray,7,8
+12/10,8:48,Porsche,Macan S,black,6,6
 
 13/10,8:50,BMW,i8,white,6,8
 13/10,8:55,BMW,340i,blue,6,9
